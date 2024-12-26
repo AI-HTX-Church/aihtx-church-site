@@ -1,3 +1,6 @@
 [submodule "themes/theme-long-teng"]
 	path = themes/theme-long-teng
 	url = https://github.com/mdfriday/theme-long-teng.git
+[submodule "themes/hugo-split-theme"]
+	path = themes/hugo-split-theme
+	url = https://github.com/escalate/hugo-split-theme.git
