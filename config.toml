@@ -1,0 +1,11 @@
+theme =                       ""
+
+
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+buildDrafts = false
+baseURL = "https://aihtx.church/"
+canonifyURLs = true
+title = "AI (All Inclusive) Church"
+
